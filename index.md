@@ -2,9 +2,14 @@
 layout: home
 ---
 
-## simple-pages
+## Daily chess puzzle
+[Clicking on this takes you to the chess puzzle](chess.html)
 
-This site is a template that you can copy to get started publishing your own
-sites online using GitHub Pages.
+This is a site with a bunch of chess puzzles, enjoy them!
 
-You can add static content here or compose blog posts in the `_posts/` folder.
+
+
+
+
+
+

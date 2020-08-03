@@ -2,10 +2,19 @@
 layout: home
 ---
 
-## Daily chess puzzle
+# Daily chess puzzle
+
 [Clicking on this takes you to the chess puzzle](chess.html)
 
-This is a site with a bunch of chess puzzles, enjoy them!
+Markdown is very handy.
+
+Heading Best Practices
+Markdown applications don’t agree on how to handle a missing space between the number signs (#) and the heading name. For compatibility, always put a space between the number signs and the heading name.
+
+✅  Do this	❌  Don't do this
+# Here's a Heading
+
+#Here's a Heading
 
 
 

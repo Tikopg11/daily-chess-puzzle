@@ -1,5 +1,18 @@
 ---
 ---
 .site-title, .site-title:visited {
-  color: #a9b4b5;
+  color: #6c6f6f;
+}
+a:visited {
+    color: #008080;
+}
+a {
+    color: #33da0a;
+    text-decoration: none;
+}
+a:hover {
+    color: #00805d;
+}
+a:active {
+    color: #00803a;
 }
